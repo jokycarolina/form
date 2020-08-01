@@ -1,4 +1,4 @@
-# form
+# formulario de contacto
 En este proyecto principalmente mi finalidad es practicar todo lo que vi en varios cursos y en muchooos videos en Youtube.
 Se trata de un Formulario de Contacto básico:
 1) Utilicé HTML 
